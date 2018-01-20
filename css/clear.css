@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	box-sizing: border-box;
+	font-weight: normal;
+	list-style: none;
+}
+/*
+浏览器内核：
+Opera：blink -o
+Google和Safari：webkit(是blink的一个分支) -webkit
+firefox：gecko    -moz
+IE: Trident
+*/
